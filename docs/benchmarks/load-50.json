@@ -1,0 +1,44 @@
+{
+  "clients": 50,
+  "connected": 50,
+  "errors": 0,
+  "seconds": 12.0355322,
+  "snapshots": 10650,
+  "packets": 11200,
+  "receivedMB": 74.075661,
+  "KBpsPerClient": 120.20991094238856,
+  "rttMedianMs": 6.068299999999908,
+  "rttP95Ms": 10.782799999999952,
+  "tickMedianMs": 5.280400000003283,
+  "tickP95Ms": 10.217599999989034,
+  "before": {
+    "status": "ok",
+    "game": "ASHVECTOR",
+    "tickRate": 20,
+    "rooms": 1,
+    "players": 2,
+    "maxHumans": 8,
+    "uptime": 103,
+    "tickMs": 0.052199999990989454,
+    "rssMB": 160.0625,
+    "cpu": {
+      "user": 1578000,
+      "system": 937000
+    }
+  },
+  "after": {
+    "status": "ok",
+    "game": "ASHVECTOR",
+    "tickRate": 20,
+    "rooms": 7,
+    "players": 50,
+    "maxHumans": 8,
+    "uptime": 115,
+    "tickMs": 4.257600000011735,
+    "rssMB": 240.359375,
+    "cpu": {
+      "user": 3109000,
+      "system": 1734000
+    }
+  }
+}

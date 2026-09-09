@@ -1,0 +1,90 @@
+{
+  "phase": "finished",
+  "winner": "bot-93",
+  "alive": 1,
+  "simulatedSeconds": 241.9,
+  "wallSeconds": 0.9128994999999999,
+  "kills": 14,
+  "placements": [
+    {
+      "name": "OBSERVER",
+      "placement": 2,
+      "kills": 0
+    },
+    {
+      "name": "CIRRUS",
+      "placement": 1,
+      "kills": 5
+    },
+    {
+      "name": "OSPREY",
+      "placement": 15,
+      "kills": 0
+    },
+    {
+      "name": "MICA",
+      "placement": 4,
+      "kills": 2
+    },
+    {
+      "name": "VALE",
+      "placement": 8,
+      "kills": 1
+    },
+    {
+      "name": "STRAND",
+      "placement": 13,
+      "kills": 1
+    },
+    {
+      "name": "ROOK",
+      "placement": 7,
+      "kills": 0
+    },
+    {
+      "name": "FEN",
+      "placement": 16,
+      "kills": 0
+    },
+    {
+      "name": "MOTH",
+      "placement": 12,
+      "kills": 0
+    },
+    {
+      "name": "SLATE",
+      "placement": 6,
+      "kills": 2
+    },
+    {
+      "name": "ION",
+      "placement": 14,
+      "kills": 0
+    },
+    {
+      "name": "SCOUR",
+      "placement": 11,
+      "kills": 0
+    },
+    {
+      "name": "TALON",
+      "placement": 3,
+      "kills": 1
+    },
+    {
+      "name": "REED",
+      "placement": 10,
+      "kills": 1
+    },
+    {
+      "name": "NOMAD",
+      "placement": 9,
+      "kills": 0
+    },
+    {
+      "name": "KITE",
+      "placement": 5,
+      "kills": 1
+    }
+  ]
+}
