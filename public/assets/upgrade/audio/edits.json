@@ -1,0 +1,66 @@
+[
+  {
+    "file": "audio/pistol-shot.ogg",
+    "sourceFile": "sources/gunshots-tabasco/sounds/cz.wav",
+    "sourceStartSeconds": 0.2,
+    "sourceEndSeconds": 1.7,
+    "outputSeconds": 1.5,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  },
+  {
+    "file": "audio/rifle-shot.ogg",
+    "sourceFile": "sources/gunshots-tabasco/sounds/sks.wav",
+    "sourceStartSeconds": 0.32,
+    "sourceEndSeconds": 1.65,
+    "outputSeconds": 1.33,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  },
+  {
+    "file": "audio/shotgun-shot.ogg",
+    "sourceFile": "sources/gunshots-tabasco/sounds/shotty.wav",
+    "sourceStartSeconds": 0,
+    "sourceEndSeconds": 0.6979,
+    "outputSeconds": 0.6978958333333334,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  },
+  {
+    "file": "audio/sniper-shot.ogg",
+    "sourceFile": "sources/gunshots-tabasco/sounds/mosin.wav",
+    "sourceStartSeconds": 0.42,
+    "sourceEndSeconds": 1.6,
+    "outputSeconds": 1.18,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  },
+  {
+    "file": "audio/helicopter-loop.ogg",
+    "sourceFile": "sources/helicopter_0.mp3",
+    "sourceStartSeconds": 0.5,
+    "sourceEndSeconds": 3.7,
+    "outputSeconds": 3.08,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 120ms crossfade for seamless loop."
+  },
+  {
+    "file": "audio/equipment-action-1.ogg",
+    "sourceFile": "sources/equipment_clicks3.wav",
+    "sourceStartSeconds": 0.16,
+    "sourceEndSeconds": 0.8,
+    "outputSeconds": 0.64,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  },
+  {
+    "file": "audio/equipment-action-2.ogg",
+    "sourceFile": "sources/equipment_clicks3.wav",
+    "sourceStartSeconds": 1.44,
+    "sourceEndSeconds": 2.16,
+    "outputSeconds": 0.72,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  },
+  {
+    "file": "audio/equipment-action-3.ogg",
+    "sourceFile": "sources/equipment_clicks3.wav",
+    "sourceStartSeconds": 2.78,
+    "sourceEndSeconds": 3.46,
+    "outputSeconds": 0.6800226757369614,
+    "modifications": "Converted to mono OGG Vorbis; peak-normalized to 0.9; 5ms head and tail fades."
+  }
+]
