@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ashvector-game-server
+    runtime: docker
+    plan: starter
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 8787
+      - key: ALLOWED_ORIGINS
+        sync: false

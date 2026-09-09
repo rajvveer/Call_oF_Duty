@@ -1,0 +1,10 @@
+services:
+  game-server:
+    build: .
+    ports:
+      - "8787:8787"
+    environment:
+      PORT: 8787
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-}
+    restart: unless-stopped
+    stop_grace_period: 10s
