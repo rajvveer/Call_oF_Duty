@@ -1,0 +1,118 @@
+[
+  {
+    "file": "concrete_wall_009_diff_1k.jpg",
+    "name": "Concrete Wall 009",
+    "creator": "Charlotte Baglioni",
+    "source": "https://polyhaven.com/a/concrete_wall_009",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_009/concrete_wall_009_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalRepeatWidthMetres": 1.8,
+    "modifications": "None: official 1K JPEG",
+    "bytes": 626688,
+    "sha256": "59811fad71658323462287b072eef22ebb857c13bba63eeff34842a4d4dba8fe"
+  },
+  {
+    "file": "concrete_wall_009_nor_gl_1k.jpg",
+    "name": "Concrete Wall 009",
+    "creator": "Charlotte Baglioni",
+    "source": "https://polyhaven.com/a/concrete_wall_009",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_009/concrete_wall_009_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalRepeatWidthMetres": 1.8,
+    "modifications": "None: official 1K JPEG",
+    "bytes": 518536,
+    "sha256": "0caa2f8681b5c81de775d32deb6ad0644e9f943015faf42e1e7cccfbd6c5c04f"
+  },
+  {
+    "file": "concrete_wall_009_rough_1k.jpg",
+    "name": "Concrete Wall 009",
+    "creator": "Charlotte Baglioni",
+    "source": "https://polyhaven.com/a/concrete_wall_009",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_009/concrete_wall_009_rough_1k.jpg",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalRepeatWidthMetres": 1.8,
+    "modifications": "None: official 1K JPEG",
+    "bytes": 766943,
+    "sha256": "109424f91c6c385b7c2b5791e2d9f8c9d082d9d5665dae42c35df96410ea05d1"
+  },
+  {
+    "file": "rusty_painted_metal_diff_1k.jpg",
+    "name": "Rusty Painted Metal",
+    "creator": "Amal Kumar",
+    "source": "https://polyhaven.com/a/rusty_painted_metal",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_painted_metal/rusty_painted_metal_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalRepeatWidthMetres": 2.2,
+    "modifications": "None: official 1K JPEG",
+    "bytes": 471866,
+    "sha256": "b086937b45c3628116a838363364a29bd3c5d2542cff906ec1d92d681ee80e15"
+  },
+  {
+    "file": "rusty_painted_metal_nor_gl_1k.jpg",
+    "name": "Rusty Painted Metal",
+    "creator": "Amal Kumar",
+    "source": "https://polyhaven.com/a/rusty_painted_metal",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_painted_metal/rusty_painted_metal_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalRepeatWidthMetres": 2.2,
+    "modifications": "None: official 1K JPEG",
+    "bytes": 484158,
+    "sha256": "f3372e2f60517df2d0e02c1472eb24071d95182d771c30b7ecd8e1b5142768bb"
+  },
+  {
+    "file": "rusty_painted_metal_rough_1k.jpg",
+    "name": "Rusty Painted Metal",
+    "creator": "Amal Kumar",
+    "source": "https://polyhaven.com/a/rusty_painted_metal",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_painted_metal/rusty_painted_metal_rough_1k.jpg",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalRepeatWidthMetres": 2.2,
+    "modifications": "None: official 1K JPEG",
+    "bytes": 318766,
+    "sha256": "2d1c355c793c5886ef9dcecfc06da354e30218a84a9fe28de37741d2f2ed5aaa"
+  },
+  {
+    "file": "quaternius-pine.glb",
+    "name": "Pine",
+    "creator": "Quaternius",
+    "source": "https://poly.pizza/m/igSu0cPoBz",
+    "download": "https://static.poly.pizza/712aaefa-ae7f-4cb3-8834-a1b8860df3b2.glb",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "triangles": 1646,
+    "meshes": 1,
+    "modifications": "Nonmetal surfaces metalness=0; leaf tint changed to linear RGB .3/.43/.25; leaf alphaMode=MASK, cutoff=.45, double-sided for depth correctness.",
+    "bytes": 2146720,
+    "sha256": "3500fe5898d3deb4540c23b37047bfb9767785182cadd70c46d8b633e26d9f49"
+  }
+]

@@ -1,0 +1,1632 @@
+[
+  {
+    "file": "concrete_wall_009_diff_1k.jpg",
+    "bytes": 626688,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "59811fad71658323462287b072eef22ebb857c13bba63eeff34842a4d4dba8fe"
+  },
+  {
+    "file": "concrete_wall_009_nor_gl_1k.jpg",
+    "bytes": 518536,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "0caa2f8681b5c81de775d32deb6ad0644e9f943015faf42e1e7cccfbd6c5c04f"
+  },
+  {
+    "file": "concrete_wall_009_rough_1k.jpg",
+    "bytes": 766943,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "109424f91c6c385b7c2b5791e2d9f8c9d082d9d5665dae42c35df96410ea05d1"
+  },
+  {
+    "file": "firearms/assault-rifle.glb",
+    "bytes": 26528,
+    "triangles": 1930,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "2f473725e922159f1a4aa006ea6f02a25c50f1fe5d3d8ffd70c36681de29f916"
+  },
+  {
+    "file": "firearms/battle-rifle.glb",
+    "bytes": 22080,
+    "triangles": 1304,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "3561844afa3be760c6cb5239f03ade6c4a0ebbb1d67011e2212fa6f575910fdb"
+  },
+  {
+    "file": "firearms/bullpup.glb",
+    "bytes": 32900,
+    "triangles": 2778,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "f05bc0b79ccf189ca4fb4c3fcbf8fda2fcbfbc97e7502de1ed759d4ced0904a8"
+  },
+  {
+    "file": "firearms/marksman-rifle.glb",
+    "bytes": 26636,
+    "triangles": 1722,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "c6859b95162a0466664bf921ea270955cc7ccf9fffb04e3f1420ce5de0601eb5"
+  },
+  {
+    "file": "firearms/pistol.glb",
+    "bytes": 17204,
+    "triangles": 968,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "3bd6f50bc7e020e18bdefd18496b0c3983c351136f7478581080c17b8d0fbea8"
+  },
+  {
+    "file": "firearms/pump-shotgun.glb",
+    "bytes": 16800,
+    "triangles": 978,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "bd8ca9f30b560373a390a9cb52ce36453d5ecb8b52ad7ef7a73c3cdf00c0fbeb"
+  },
+  {
+    "file": "firearms/shotgun.glb",
+    "bytes": 15388,
+    "triangles": 1264,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "925118e9f43764325557d5f97977a78f3b3cdd9021a14608d3d69d5157f5db63"
+  },
+  {
+    "file": "firearms/smg.glb",
+    "bytes": 31436,
+    "triangles": 2497,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "eae02259c7cf90c520a5a95764f881be517a4148883269bc3110899e54a45ee7"
+  },
+  {
+    "file": "firearms/sniper-rifle.glb",
+    "bytes": 22100,
+    "triangles": 1382,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "4d3665f5ab2e5e5186c093f39b64ccf7e07ec4a58aa7a2899d75311203e6271e"
+  },
+  {
+    "file": "firearms/submachine-gun.glb",
+    "bytes": 19900,
+    "triangles": 1374,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "2c6d3787ccb71feb571b467576bd42662b1a310c359209feb4d55c817f342113"
+  },
+  {
+    "file": "ground-diff.jpg",
+    "bytes": 666655,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d"
+  },
+  {
+    "file": "ground-nor_gl.jpg",
+    "bytes": 904956,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "1aa3e23bff453f152e089b9f83aa36b4901651e019f7e2ca01d5331a9bbbda78"
+  },
+  {
+    "file": "ground-rough.jpg",
+    "bytes": 362214,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "b9f3f76aba74007f708333c0dbe73c52eb83ea0c4187a13e2e994f888a25114a"
+  },
+  {
+    "file": "industrial/building-a.glb",
+    "bytes": 43460,
+    "triangles": 2046,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "67e2bf7501cd4a86bc951169bbbf502df11ef38937d08c6bcc50676f46fcc13f"
+  },
+  {
+    "file": "industrial/building-a.lod.glb",
+    "bytes": 36224,
+    "triangles": 1551,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "e89b4815ca13ee7be8eda129439e021b0e10f80ce98aac8df7fb6ae58dcf16bf"
+  },
+  {
+    "file": "industrial/building-b.glb",
+    "bytes": 48880,
+    "triangles": 2422,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "51906c7f154c7f5f539853069cd266360402825f8b62be39391b61e54a7168e8"
+  },
+  {
+    "file": "industrial/building-b.lod.glb",
+    "bytes": 38720,
+    "triangles": 1690,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "813a2cf36b0216ac75f77f6c774351694f479735ee3f5d14ee323721a38c43cd"
+  },
+  {
+    "file": "industrial/building-c.glb",
+    "bytes": 43964,
+    "triangles": 1928,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "4c0f7680b37bfa4da62ea25a980d55cd00a4adfc59ef7711d944a077a7926f0a"
+  },
+  {
+    "file": "industrial/building-c.lod.glb",
+    "bytes": 37828,
+    "triangles": 1550,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "a5dbe50c1ece3289ca894e003bc609dc1a7d6aefbe531a6c67a719967679af88"
+  },
+  {
+    "file": "industrial/building-d.glb",
+    "bytes": 31624,
+    "triangles": 1158,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "947bf36c85063ad17cac7874e05390b9b12641a526a8a22e91bdf2b7e561439f"
+  },
+  {
+    "file": "industrial/building-d.lod.glb",
+    "bytes": 28284,
+    "triangles": 947,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "9b3ba1863e9cb106331caf0ea254e29f2488cbe96f8e284dcff9915c6eaa0317"
+  },
+  {
+    "file": "industrial/building-e.glb",
+    "bytes": 36480,
+    "triangles": 1484,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "4e6c44c0cfcf3678acfa251562b9e3bb0dddbd3f319a3ba9e8801eac81896fd3"
+  },
+  {
+    "file": "industrial/building-e.lod.glb",
+    "bytes": 32528,
+    "triangles": 1241,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "923728a85080dc94bdfdfbb8cd94323a4cdaa855459d85071e2578107b30c23e"
+  },
+  {
+    "file": "industrial/building-f.glb",
+    "bytes": 37324,
+    "triangles": 1552,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "b9c8819714e26753e8d8b6cb5f1ca759f277589529801f0cd1ddc56e0eb05677"
+  },
+  {
+    "file": "industrial/building-f.lod.glb",
+    "bytes": 34196,
+    "triangles": 1371,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "9a438a298cfe7091dc0c2fdb5eb3dd9ef7cd355a3f6415682f439c7a124c81a9"
+  },
+  {
+    "file": "industrial/building-g.glb",
+    "bytes": 32684,
+    "triangles": 1242,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "4d6abc7d9a759ccd0018fa68f4c83024096af4ac8ab021c6c2292de79b529f21"
+  },
+  {
+    "file": "industrial/building-g.lod.glb",
+    "bytes": 30084,
+    "triangles": 1076,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "5a2ed7b86cbb882099b91162e27dc2779458dd8f4b761b19173ca1f37309a368"
+  },
+  {
+    "file": "industrial/building-h.glb",
+    "bytes": 25952,
+    "triangles": 698,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "51beac075694787a12564b8fa7889b68ab8f3962a2de02caa7038acf44abb882"
+  },
+  {
+    "file": "industrial/building-h.lod.glb",
+    "bytes": 24288,
+    "triangles": 601,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "1647c77ffc1995265c2d5adb2f501589f847b7ab7698608e5f4f33ff5d7c0b1b"
+  },
+  {
+    "file": "industrial/building-i.glb",
+    "bytes": 28060,
+    "triangles": 798,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "725960bc8f94b96ec2b9b12c6a8781a594b9e7bbe56bbee836e5497dcc2007de"
+  },
+  {
+    "file": "industrial/building-i.lod.glb",
+    "bytes": 25904,
+    "triangles": 678,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "45d322308685a42f74295185ac04ec66fd06d0ff1b6bbe3eae593e22aa374184"
+  },
+  {
+    "file": "industrial/building-j.glb",
+    "bytes": 29276,
+    "triangles": 886,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "024ddb3c2b92bdaa769e7d860d4b2dc7549f222c3f197219e575484c28c6e637"
+  },
+  {
+    "file": "industrial/building-j.lod.glb",
+    "bytes": 25572,
+    "triangles": 677,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "ee1b5e658219c233796b9017e726e5a5f599f3c1ff0a4f60ebf271d496c414bc"
+  },
+  {
+    "file": "industrial/building-k.glb",
+    "bytes": 26476,
+    "triangles": 702,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "bf0da7b3ecb63f41560f7ecf298ecabf38751a6dfff09b7422801ec155e17a2f"
+  },
+  {
+    "file": "industrial/building-k.lod.glb",
+    "bytes": 24512,
+    "triangles": 596,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "6d3dc410260fd0ef59510267e58c46d0de8dfd41cd4694cfe423e9d31c6cfa07"
+  },
+  {
+    "file": "industrial/building-l.glb",
+    "bytes": 41148,
+    "triangles": 1896,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "660de5bc21144e8bf682b7cd459607193500816daed132ad59ec7e3510f7f6c6"
+  },
+  {
+    "file": "industrial/building-l.lod.glb",
+    "bytes": 37220,
+    "triangles": 1622,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "267de2c5fb579a996db24fb19719a6871ad6ec7603518f2e0d25c795475aabcf"
+  },
+  {
+    "file": "industrial/building-m.glb",
+    "bytes": 38076,
+    "triangles": 1694,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "bd4af39b87e473f662d8e29e399163544858533b7b884066790b0f9f907a909c"
+  },
+  {
+    "file": "industrial/building-m.lod.glb",
+    "bytes": 35244,
+    "triangles": 1500,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "e62ba369a17acbe43fd74d55f4f197682a699d1d0fdccc6903a537e1bb11e0b0"
+  },
+  {
+    "file": "industrial/building-n.glb",
+    "bytes": 32956,
+    "triangles": 1262,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "5b7d258d65dcc5aa8bf81076319dea43663eb9e56347c28fae2e8b222e6daa14"
+  },
+  {
+    "file": "industrial/building-n.lod.glb",
+    "bytes": 27560,
+    "triangles": 871,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "04e879f4568b55fc17d27c3e161f8fd518b97d4165d6c578c60ea56e2ce72deb"
+  },
+  {
+    "file": "industrial/building-o.glb",
+    "bytes": 27932,
+    "triangles": 868,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "e67b11c9feec088ffa2de00d122a7e468ff9a2507bb3119577fbe49b5e3067b2"
+  },
+  {
+    "file": "industrial/building-o.lod.glb",
+    "bytes": 25088,
+    "triangles": 687,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "3cd9628ca306e280b66a73a0bfc8bf548254aff671830e16e017feb25fe84be2"
+  },
+  {
+    "file": "industrial/building-p.glb",
+    "bytes": 32676,
+    "triangles": 1162,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "532bb06fee4bb2e6cc88fd40945bbb93dcdf1892b219df9f94bf7ebefa5853bc"
+  },
+  {
+    "file": "industrial/building-p.lod.glb",
+    "bytes": 30312,
+    "triangles": 1026,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "2aa6538a8a315adde30f90aad03a199f249508cd7600e8f4806be3e1cd17789d"
+  },
+  {
+    "file": "industrial/building-q.glb",
+    "bytes": 44524,
+    "triangles": 2062,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "f0f7f18ea80eb44f11c5add6ab81d10cb90ce1c1dd0c2725643b4a6c89c051eb"
+  },
+  {
+    "file": "industrial/building-q.lod.glb",
+    "bytes": 38636,
+    "triangles": 1680,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "6cd3ec1df5679064ac6144d19147eef19ff1927b571d1d91e3c48dd25c771a63"
+  },
+  {
+    "file": "industrial/building-r.glb",
+    "bytes": 43380,
+    "triangles": 1912,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "03a815d14796da0ceca03b8971dc7987be114716571d5d0302db387b5347933a"
+  },
+  {
+    "file": "industrial/building-r.lod.glb",
+    "bytes": 37876,
+    "triangles": 1578,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "a2f7e66140babcf13effe0987be540ebc08af4e668da36571be6758b78848adb"
+  },
+  {
+    "file": "industrial/building-s.glb",
+    "bytes": 28496,
+    "triangles": 876,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "52d49f7a8844424cbb0a3c601c44b60ae622c1c1e796b3b385cc8129157137d0"
+  },
+  {
+    "file": "industrial/building-s.lod.glb",
+    "bytes": 25728,
+    "triangles": 720,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "f28bfb94803ac12b1e8dfa33fa6fef15aa15f257dff4520226c94a80890d8711"
+  },
+  {
+    "file": "industrial/building-t.glb",
+    "bytes": 38740,
+    "triangles": 1586,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "94c1fd2427092032cf7ebe41da1ca3c7c58a94646e0ac0d0e2dcc101b0a222d2"
+  },
+  {
+    "file": "industrial/building-t.lod.glb",
+    "bytes": 34008,
+    "triangles": 1298,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "0a8e345f96699573a8193de2cb01dabcd12b9004549f8c7d32f31ef29a349fdf"
+  },
+  {
+    "file": "industrial/chimney-basic.glb",
+    "bytes": 15728,
+    "triangles": 88,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "87e77051b3baec311b3fd1e10ece0a302b9c005b40506b68ccfa496032b6a540"
+  },
+  {
+    "file": "industrial/chimney-basic.lod.glb",
+    "bytes": 15728,
+    "triangles": 88,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "87e77051b3baec311b3fd1e10ece0a302b9c005b40506b68ccfa496032b6a540"
+  },
+  {
+    "file": "industrial/chimney-large.glb",
+    "bytes": 18216,
+    "triangles": 218,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "47cf0aa5d866d61241c65517759c221c32eb377b37a1c354beba6b227f3d6791"
+  },
+  {
+    "file": "industrial/chimney-large.lod.glb",
+    "bytes": 18020,
+    "triangles": 218,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "aac82ee361bc1fc35967b88ed77169e063136ac268bb88bc2b71855838ea8c45"
+  },
+  {
+    "file": "industrial/detail-tank-large.glb",
+    "bytes": 23384,
+    "triangles": 566,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "8c0277f73170c2715f46ff6b1162a42f7c61153cf2b1ab0a3cb3d3d956f65771"
+  },
+  {
+    "file": "industrial/detail-tank-large.lod.glb",
+    "bytes": 21932,
+    "triangles": 486,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "942eb00e5ffb336de1c455028f620f202ba23b0a9ff449f1b72c7feb9d2095c4"
+  },
+  {
+    "file": "industrial/detail-tank.glb",
+    "bytes": 20228,
+    "triangles": 310,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "f984dc28a0359e143f1e862a464d27e3c9352bd5ea6b51530ee9640a38e44fbe"
+  },
+  {
+    "file": "industrial/detail-tank.lod.glb",
+    "bytes": 19436,
+    "triangles": 296,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "11ad867c47d02b44242a9eb7d556d75e87b6759bb4d60cbbefdd2896e79fc575"
+  },
+  {
+    "file": "industrial/shipping-container-a.glb",
+    "bytes": 20480,
+    "triangles": 402,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "012db5a00b96815cddd265ffcca66ceaca601276ab3110852bafe2d29a3acdcb"
+  },
+  {
+    "file": "industrial/shipping-container-a.lod.glb",
+    "bytes": 19260,
+    "triangles": 322,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "2a444a3f14e3db465080e437def83afbd5116f8cf4d46cea16e9b9639f4be989"
+  },
+  {
+    "file": "industrial/shipping-container-b.glb",
+    "bytes": 21848,
+    "triangles": 402,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "e5595e8b9d502f999b4ccd00690d56f41fa20d6f06fea150c2d5fa827a96ae25"
+  },
+  {
+    "file": "industrial/shipping-container-b.lod.glb",
+    "bytes": 20672,
+    "triangles": 329,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "f43b6c828f06c293951cac4f804590a3fe54762cde8f1a069a2eb0f9e0ffe1a5"
+  },
+  {
+    "file": "industrial/shipping-container-c.glb",
+    "bytes": 20480,
+    "triangles": 402,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "0068262b43d731721639910536e2a0c9dc0740501bb542d333f12a1f972873b6"
+  },
+  {
+    "file": "industrial/shipping-container-c.lod.glb",
+    "bytes": 19260,
+    "triangles": 322,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "1535bd6adeccab3cc8238cdae47ce40a270f332f2e77a60ae36dec500f6591f6"
+  },
+  {
+    "file": "industrial/solar-panel-landscape-group.glb",
+    "bytes": 28904,
+    "triangles": 976,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "26926b20b9339e29b10186be0ab98b3d6ba2bfca1dd55703a8ac592e48f4ce9c"
+  },
+  {
+    "file": "industrial/solar-panel-landscape-group.lod.glb",
+    "bytes": 25856,
+    "triangles": 643,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "7b762bca27932127feff9700e2cb13c4d041fcba139d27d0b2a0efa02d859625"
+  },
+  {
+    "file": "industrial/water-tower.glb",
+    "bytes": 31108,
+    "triangles": 968,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "90ebcc115923e9463fddcf780a5033c837f383bb8017b57c605b8d97093657fc"
+  },
+  {
+    "file": "industrial/water-tower.lod.glb",
+    "bytes": 27304,
+    "triangles": 862,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "99a1692805bc60387352575ad8ced397dfcc9373cf410e9cb4fcbe977bd51874"
+  },
+  {
+    "file": "industrial/windmill.glb",
+    "bytes": 24464,
+    "triangles": 456,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "has external LOD",
+    "sha256": "09c2ff0bdbb7fcf9de22f6ec902d0de4310ab49f67e93acdcff62396b629627c"
+  },
+  {
+    "file": "industrial/windmill.lod.glb",
+    "bytes": 23588,
+    "triangles": 416,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "simplified",
+    "sha256": "d6bc833fcac53bde30f775022266a59442c9c55d67a1b7b517f236729b84f832"
+  },
+  {
+    "file": "nature/bridge_stone.glb",
+    "bytes": 5692,
+    "triangles": 252,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "4cd03db55ebfa6c4394bb5e5e1d0510e565375a40a6c105dc4fd5f96091afda2"
+  },
+  {
+    "file": "nature/bridge_stone.lod.glb",
+    "bytes": 5628,
+    "triangles": 246,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "618264e85980f95a972b34cfbbac40192be085e1d916b8d3d6ba8bd69bcbda3d"
+  },
+  {
+    "file": "nature/bridge_wood.glb",
+    "bytes": 6260,
+    "triangles": 220,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "fa714c2b8c85f948feae23dd587115c432b3ade2ab8ee29f8a5f3fa3478bd724"
+  },
+  {
+    "file": "nature/bridge_wood.lod.glb",
+    "bytes": 6228,
+    "triangles": 214,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "cd2ef54033b59f07fba9d2d502bda480ff971e842ebf06993e348ef9378e41df"
+  },
+  {
+    "file": "nature/cliff_cornerLarge_rock.glb",
+    "bytes": 2092,
+    "triangles": 12,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "2919d7f426c6f85310602bf83f07fb29e478d5aa4ee1156abdec2f846a0060ae"
+  },
+  {
+    "file": "nature/cliff_cornerLarge_rock.lod.glb",
+    "bytes": 2092,
+    "triangles": 12,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "2919d7f426c6f85310602bf83f07fb29e478d5aa4ee1156abdec2f846a0060ae"
+  },
+  {
+    "file": "nature/cliff_large_rock.glb",
+    "bytes": 2244,
+    "triangles": 32,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "a5abffd82d2fe2be4403c173ff242e72df1ae254fd7f94ee6e009a72f6e6b6eb"
+  },
+  {
+    "file": "nature/cliff_large_rock.lod.glb",
+    "bytes": 2244,
+    "triangles": 32,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "a5abffd82d2fe2be4403c173ff242e72df1ae254fd7f94ee6e009a72f6e6b6eb"
+  },
+  {
+    "file": "nature/rock_largeA.glb",
+    "bytes": 4148,
+    "triangles": 80,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "095a2474bc52552205f3aec17ed4d76fbb316e0613e1fe2a27a5a85140e80912"
+  },
+  {
+    "file": "nature/rock_largeA.lod.glb",
+    "bytes": 4148,
+    "triangles": 80,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "095a2474bc52552205f3aec17ed4d76fbb316e0613e1fe2a27a5a85140e80912"
+  },
+  {
+    "file": "nature/rock_largeB.glb",
+    "bytes": 5224,
+    "triangles": 85,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "b70914f260b379e9148278ee0fb31f42f245391d535fec64a7b71cc8c6e195fc"
+  },
+  {
+    "file": "nature/rock_largeB.lod.glb",
+    "bytes": 5200,
+    "triangles": 84,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "96beea132dbc0dbc3d0e443010e80d107aa036318ce950ad1119dc9ae55a1db9"
+  },
+  {
+    "file": "nature/rock_largeC.glb",
+    "bytes": 4016,
+    "triangles": 72,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "40dea216b618599795422f64ee6df3d91ee44839d7070500370bad2e992e2e2f"
+  },
+  {
+    "file": "nature/rock_largeC.lod.glb",
+    "bytes": 4016,
+    "triangles": 72,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "40dea216b618599795422f64ee6df3d91ee44839d7070500370bad2e992e2e2f"
+  },
+  {
+    "file": "nature/rock_tallA.glb",
+    "bytes": 5848,
+    "triangles": 136,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "f4fd2ddf7aa9220a06b3a218ea784a9a00db1fe999fd0265e1e4dda2102ea99b"
+  },
+  {
+    "file": "nature/rock_tallA.lod.glb",
+    "bytes": 5748,
+    "triangles": 134,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "0ff87cb396bc671f1e4d5e7218044578d26accdd0f426c253f0a067b5127039d"
+  },
+  {
+    "file": "nature/rock_tallB.glb",
+    "bytes": 6068,
+    "triangles": 172,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "50cca674d79436b8f00a849c8344247963cd4cbdff1430ef77212dcf08dcf80c"
+  },
+  {
+    "file": "nature/rock_tallB.lod.glb",
+    "bytes": 5960,
+    "triangles": 161,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "b0e2f24ad30fce68abe7c6093bb2bbe3934c222807c761ac6850b8f5f0ce0d60"
+  },
+  {
+    "file": "nature/tree_pineDefaultA.glb",
+    "bytes": 6052,
+    "triangles": 230,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "02c7707344b78cfc3d6255a9e37f2af287f8c5ce86285c44afa18f7942256239"
+  },
+  {
+    "file": "nature/tree_pineDefaultA.lod.glb",
+    "bytes": 6052,
+    "triangles": 230,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "02c7707344b78cfc3d6255a9e37f2af287f8c5ce86285c44afa18f7942256239"
+  },
+  {
+    "file": "nature/tree_pineRoundC.glb",
+    "bytes": 5572,
+    "triangles": 206,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "2299e1c791ae2c6e74e25888fd32bdad1a088060291d13ed84a4f87645577ce3"
+  },
+  {
+    "file": "nature/tree_pineRoundC.lod.glb",
+    "bytes": 5572,
+    "triangles": 206,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "2299e1c791ae2c6e74e25888fd32bdad1a088060291d13ed84a4f87645577ce3"
+  },
+  {
+    "file": "nature/tree_pineTallA_detailed.glb",
+    "bytes": 4692,
+    "triangles": 134,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "271da02ebbbad0f498b6d77a2d2aaae7091feeb0ba1bb165b40c981cf866b253"
+  },
+  {
+    "file": "nature/tree_pineTallA_detailed.lod.glb",
+    "bytes": 4692,
+    "triangles": 134,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "271da02ebbbad0f498b6d77a2d2aaae7091feeb0ba1bb165b40c981cf866b253"
+  },
+  {
+    "file": "nature/tree_pineTallB_detailed.glb",
+    "bytes": 5004,
+    "triangles": 166,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "has external LOD",
+    "sha256": "5b4c8f774299fe53db4087ec81c7b71ae9f0a9d4cf7ceebae71cd17f51b52ce0"
+  },
+  {
+    "file": "nature/tree_pineTallB_detailed.lod.glb",
+    "bytes": 5004,
+    "triangles": 166,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "simplified",
+    "sha256": "5b4c8f774299fe53db4087ec81c7b71ae9f0a9d4cf7ceebae71cd17f51b52ce0"
+  },
+  {
+    "file": "operator/swat.glb",
+    "bytes": 453900,
+    "triangles": 7752,
+    "meshes": 4,
+    "animations": 24,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "6da64781ac90f9b1d18ba6ae4ad727438193884b8bfd3da0db0a7d5cbef4e60a"
+  },
+  {
+    "file": "quaternius-pine.glb",
+    "bytes": 2082408,
+    "triangles": 1646,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 16777216,
+    "lod": "single detail level",
+    "sha256": "77143f0ecdcea9419655ba6c6cf22830e092b5028d44b13f91bb9afe25231aa0"
+  },
+  {
+    "file": "rusty_painted_metal_diff_1k.jpg",
+    "bytes": 471866,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "b086937b45c3628116a838363364a29bd3c5d2542cff906ec1d92d681ee80e15"
+  },
+  {
+    "file": "rusty_painted_metal_nor_gl_1k.jpg",
+    "bytes": 484158,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "f3372e2f60517df2d0e02c1472eb24071d95182d771c30b7ecd8e1b5142768bb"
+  },
+  {
+    "file": "rusty_painted_metal_rough_1k.jpg",
+    "bytes": 318766,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "2d1c355c793c5886ef9dcecfc06da354e30218a84a9fe28de37741d2f2ed5aaa"
+  },
+  {
+    "file": "upgrade/audio/bolt.wav",
+    "bytes": 83628,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "33e007321ba83301c861aef573f2c40b70bc62f8f24c0164877e6dd123e24371"
+  },
+  {
+    "file": "upgrade/audio/equipment-action-1.ogg",
+    "bytes": 9219,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "084d7ad994a5f8cb86067ffe27089dc559828e2db8efa4b55e2b1e4a961ed69d"
+  },
+  {
+    "file": "upgrade/audio/equipment-action-2.ogg",
+    "bytes": 9922,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "37f75b9a6992c0d443d39e5b47c3fdad63445a16db13bca31a7da6be75774029"
+  },
+  {
+    "file": "upgrade/audio/equipment-action-3.ogg",
+    "bytes": 10384,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "ca2b54898a76d7c5039b58e2a4ecd7f9e191f317202b88acd122eccd18c02a60"
+  },
+  {
+    "file": "upgrade/audio/footstep-1.ogg",
+    "bytes": 9715,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "33c9bef5e8aeb1069455699a34a0c5e1ef1787fd3f61594b0859d7e6bb9f9dec"
+  },
+  {
+    "file": "upgrade/audio/footstep-2.ogg",
+    "bytes": 10531,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "f05396c807eb8eaecffb2a1ead611ec971c5a7914d1d081c91d7796e852692a2"
+  },
+  {
+    "file": "upgrade/audio/footstep-3.ogg",
+    "bytes": 14136,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "9817cc93897ed1de5da87675b26be4196bfda3daa6f1de9dc4398a68d250cdb9"
+  },
+  {
+    "file": "upgrade/audio/footstep-4.ogg",
+    "bytes": 13771,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "b373ff981e44d6f7ba2291225a4803078771029615ed81606136fdb9599906d5"
+  },
+  {
+    "file": "upgrade/audio/footstep-5.ogg",
+    "bytes": 13595,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "f1b4893dd3cebe23438567a0dcaf047848a52b594e7eb03e5c212d99e83d2298"
+  },
+  {
+    "file": "upgrade/audio/footstep-6.ogg",
+    "bytes": 11329,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "39147cc1b98abb4b5378ad07b15d50d18f2aa0f0fd2f5514f078c1e574d14773"
+  },
+  {
+    "file": "upgrade/audio/grenade-handle.wav",
+    "bytes": 26668,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "422bb2b92072cf8ecb77fda83e70d27bdcb7fa8cee33415ef66985a8cc14dde2"
+  },
+  {
+    "file": "upgrade/audio/helicopter-loop.ogg",
+    "bytes": 29416,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "01948c0525c95f173b05f00b9cb3b8cf085eb9f8cfedda914f2fa220b7085b9c"
+  },
+  {
+    "file": "upgrade/audio/mag-in.wav",
+    "bytes": 18476,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "a5441641e7e9ede24f3ac311642e06265c6f480e3b1ba4b92c19c81c3a5e4d86"
+  },
+  {
+    "file": "upgrade/audio/mag-out.wav",
+    "bytes": 22572,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "1cdc10c50a26834ce7562a5f2925b9aa1118e3bb58a86fea80f34558bf2c5101"
+  },
+  {
+    "file": "upgrade/audio/pistol-reload.wav",
+    "bytes": 278572,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "685cac6a184e3cc3ec09a25b6ddb1d6feffd86d469778f339aa423d384035c50"
+  },
+  {
+    "file": "upgrade/audio/pistol-shot.ogg",
+    "bytes": 15495,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "0f367cc2c1892e477d5ab6c3d352a1b974760075e544ae79b90635ca2e85b72e"
+  },
+  {
+    "file": "upgrade/audio/rifle-reload.wav",
+    "bytes": 274476,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "efb2d724d634eabe6ba8d3065686abca848bb7497d4d43a5e4aed5e5ea23016f"
+  },
+  {
+    "file": "upgrade/audio/rifle-shot.ogg",
+    "bytes": 14246,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "d1b917addfc1f340e158b9a9dec9a4388e77787305b9e68f30108e10d51267f6"
+  },
+  {
+    "file": "upgrade/audio/shotgun-shot.ogg",
+    "bytes": 8685,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "7b6b11dfb6633b7ab2dcb06ae927621868d42ddaed54d749684d34088a67fd21"
+  },
+  {
+    "file": "upgrade/audio/sniper-shot.ogg",
+    "bytes": 12834,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "2d675e614bee629013fc822de1a8a2ef817fc80640c1ddb7c9b0b30111706a0e"
+  },
+  {
+    "file": "upgrade/environment/qwantani_sunset_puresky_1k.hdr",
+    "bytes": 1061624,
+    "triangles": 0,
+    "meshes": 0,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "e90f2130848de0364b76d2b3da7a72ce31bbb95d66bd86d5b4f85f0626421b8d"
+  },
+  {
+    "file": "upgrade/firearms/assault-rifle.glb",
+    "bytes": 148092,
+    "triangles": 1930,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "91b62bade787cbf015c63e0fa6ada50fe87b093fdcdbb342915ce1e203bc88d0"
+  },
+  {
+    "file": "upgrade/firearms/battle-rifle.glb",
+    "bytes": 83224,
+    "triangles": 1304,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "b8abcf72a638b332a991f4211cb81ae8f3c9f3a8703305b13c234b323a02d010"
+  },
+  {
+    "file": "upgrade/firearms/bullpup.glb",
+    "bytes": 160140,
+    "triangles": 2778,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "f8784b16030fedc1212bb516ed9fb6a3e770a687e0498c72c14be268e2a86983"
+  },
+  {
+    "file": "upgrade/firearms/marksman-rifle.glb",
+    "bytes": 107200,
+    "triangles": 1722,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "6398684de90833082eaec6e0b94534d9eb7dc48bde7935ea29606dd61a2e5537"
+  },
+  {
+    "file": "upgrade/firearms/pistol.glb",
+    "bytes": 61120,
+    "triangles": 968,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "7cd608dc69db36e87e4915fb227daa38e9830fd6020eca665ee296b745784cb8"
+  },
+  {
+    "file": "upgrade/firearms/pump-shotgun.glb",
+    "bytes": 62716,
+    "triangles": 978,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "11a7d1235f733a3ef2aa4277fe33cde30d3816b5647bcbdecc9e0133aed1ec49"
+  },
+  {
+    "file": "upgrade/firearms/sniper-rifle.glb",
+    "bytes": 86400,
+    "triangles": 1382,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "f8596bee3c61fc77f7d394198cc037bb6be7fbc7894413d9551e0cb9393631c3"
+  },
+  {
+    "file": "upgrade/firearms/submachine-gun.glb",
+    "bytes": 81356,
+    "triangles": 1374,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 0,
+    "lod": "single detail level",
+    "sha256": "350be75e05544bfd6d066d4db27f12930aaf2b35c02ea2f6b67097a3ff66cc28"
+  },
+  {
+    "file": "upgrade/models/attack-helicopter.glb",
+    "bytes": 1159564,
+    "triangles": 2888,
+    "meshes": 8,
+    "animations": 0,
+    "estimatedTextureBytes": 5592405,
+    "lod": "single detail level",
+    "sha256": "e4fe15c2b17a2094e2b6f21b1c6f1b2f82c2da1c355a3afc1dc135f7d5f16e03"
+  },
+  {
+    "file": "upgrade/models/moss-rock.glb",
+    "bytes": 682240,
+    "triangles": 2799,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 16777216,
+    "lod": "single detail level",
+    "sha256": "9c268372ae44127be1ad65ef69cf0fbc273a69f907657353d828db99d22a66ca"
+  },
+  {
+    "file": "weapons/blaster-a.glb",
+    "bytes": 21652,
+    "triangles": 470,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "2fb472f3a9f2c095753b8f398b3a8c91ead4177ec1df3c4f9c32c1ba391038c8"
+  },
+  {
+    "file": "weapons/blaster-b.glb",
+    "bytes": 18536,
+    "triangles": 368,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "de2d15b433612d779dc407e89676ef51c35532ad4ac16bd373eff07f21690f27"
+  },
+  {
+    "file": "weapons/blaster-c.glb",
+    "bytes": 18912,
+    "triangles": 388,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "757d4333f98dad3afa8163780a86cf750c0fd81cf36087b08f9121093af1db4b"
+  },
+  {
+    "file": "weapons/blaster-d.glb",
+    "bytes": 21592,
+    "triangles": 486,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "375c3adb9ee43a3bd1b4e0fea6121779dffda1c167e58630a5a2311da89f725c"
+  },
+  {
+    "file": "weapons/blaster-e.glb",
+    "bytes": 28268,
+    "triangles": 802,
+    "meshes": 3,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "afa37e43d70cce5e08fcdd12e3816304fbc6a2a897f073e6f5d6a34a73770ff3"
+  },
+  {
+    "file": "weapons/blaster-f.glb",
+    "bytes": 27704,
+    "triangles": 768,
+    "meshes": 3,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "82aee59d2650605a646cf5c1a53bb97b290431a6bb6af08ef26409e8e3d6f339"
+  },
+  {
+    "file": "weapons/blaster-g.glb",
+    "bytes": 21816,
+    "triangles": 618,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "7655b10e4049ab6d5776df95fe6551895007e52bd205dd9e6564ab08926ef3db"
+  },
+  {
+    "file": "weapons/blaster-h.glb",
+    "bytes": 17472,
+    "triangles": 296,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "0c7bc862c5f0ca921edaefd0c2cc2544a70652dfef7e9d283b186f76d68ef507"
+  },
+  {
+    "file": "weapons/blaster-i.glb",
+    "bytes": 19156,
+    "triangles": 416,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "2fe6d6483473dc81d074e32be844403b557d90e75d451b55f7c44bfe91255f9a"
+  },
+  {
+    "file": "weapons/blaster-j.glb",
+    "bytes": 22632,
+    "triangles": 548,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "b913e4a1c8d281e91b372d732b8c4791686e0c3717a3b06a5b432e827d3ba2df"
+  },
+  {
+    "file": "weapons/blaster-k.glb",
+    "bytes": 18564,
+    "triangles": 392,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "07ef74cbed00456a17924770c00c9c5b7f8f45a972dff70b549fec9f8feb34ed"
+  },
+  {
+    "file": "weapons/blaster-l.glb",
+    "bytes": 19720,
+    "triangles": 450,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "d95c82b91def2fb827ac038cb03ee0bd23be6c962a0ace6d8e7a67f2cfca9090"
+  },
+  {
+    "file": "weapons/blaster-m.glb",
+    "bytes": 19768,
+    "triangles": 440,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "1eb48ebdaf1e16e9e4d5c0403fab4af77d4d14bc62e864fdbdf0e83e034f9af4"
+  },
+  {
+    "file": "weapons/blaster-n.glb",
+    "bytes": 18612,
+    "triangles": 410,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "5653fa149362db394f7ad39b6efe96727c352e2fca3e156f41da0ab04f9b5296"
+  },
+  {
+    "file": "weapons/blaster-o.glb",
+    "bytes": 22396,
+    "triangles": 664,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "ac05e5f6287a7bfa6542ad91679ab9f63b63c8d79a57c295875f808239eedfe5"
+  },
+  {
+    "file": "weapons/blaster-p.glb",
+    "bytes": 27536,
+    "triangles": 882,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "f39567e11bd6343c5d9237b5a05a8c0f3a1c36cdb5d2a855d264cb8ac2687539"
+  },
+  {
+    "file": "weapons/blaster-q.glb",
+    "bytes": 21956,
+    "triangles": 602,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "cbfd310e875d51b01d29662d79b63c9b082e01a905314cc81f54f7d419a6055b"
+  },
+  {
+    "file": "weapons/blaster-r.glb",
+    "bytes": 22096,
+    "triangles": 524,
+    "meshes": 2,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "7c9adac57ee83b261efe8d383106682ccea51b982614f344576190bd0fc589c5"
+  },
+  {
+    "file": "weapons/crate-medium.glb",
+    "bytes": 25256,
+    "triangles": 628,
+    "meshes": 2,
+    "animations": 3,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "d1a59e1933b3b5b35f5bdb87a1fa75ab6fe93254e161595d8a49c55924db5f1c"
+  },
+  {
+    "file": "weapons/crate-wide.glb",
+    "bytes": 25364,
+    "triangles": 628,
+    "meshes": 2,
+    "animations": 3,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "d47c3657eaeefad90041969fd43ea2b92dc8440078e40e952834cf0575895003"
+  },
+  {
+    "file": "weapons/grenade-a.glb",
+    "bytes": 16128,
+    "triangles": 200,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "60ed1208e585e01c5baa1abe5ba16d4eaa9757057de0d5e9cb7b29b2fc86de0d"
+  },
+  {
+    "file": "weapons/grenade-b.glb",
+    "bytes": 15672,
+    "triangles": 154,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "21ae3d2e1c7ab97e1a86d3189fd99c9b9db4df7ad5478998924755ea0437973a"
+  },
+  {
+    "file": "weapons/scope-large-a.glb",
+    "bytes": 16272,
+    "triangles": 196,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "1420f330389bbfd606dae9f725d879faeab854fd4d4a478cc5dcc60854abaa34"
+  },
+  {
+    "file": "weapons/scope-small.glb",
+    "bytes": 16284,
+    "triangles": 200,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "bc9327ab3e41ed40d2d983aa7af9c72761583f850d1d8ffda6a5fa60bf8669a6"
+  },
+  {
+    "file": "weapons/silencer-small.glb",
+    "bytes": 14248,
+    "triangles": 92,
+    "meshes": 1,
+    "animations": 0,
+    "estimatedTextureBytes": 1398101,
+    "lod": "single detail level",
+    "sha256": "f73a7930a16a5c0eaf9061e00522ae883e74e67ecb7dcd2225c52a4525144cb8"
+  }
+]

@@ -1,0 +1,434 @@
+{
+  "preparedOn": "2026-09-06",
+  "preparedFor": "ASHVECTOR browser FPS upgrade",
+  "assets": [
+    {
+      "title": "Attack Chopper",
+      "creator": "Geibu3D / Cheese Animal Productions",
+      "sourceUrl": "https://opengameart.org/content/attack-chopper",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/attackchopper.zip"
+      ],
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        "models/attack-helicopter.glb"
+      ],
+      "licenseEvidence": [
+        "licenses/attack-chopper-geibu.html",
+        "licenses/CC-BY-4.0.txt",
+        "sources/attackchopper/Readme.txt"
+      ],
+      "modifications": "Converted supplied FBX to GLB using Blender 5.1; applied supplied Apache_Texture_Camo_Green.png; metallic=0.35, roughness=0.63; baked rotation and scale for rotor animation. Source mesh geometry otherwise unchanged."
+    },
+    {
+      "title": "Helicopter (optional utility fallback)",
+      "creator": "Zsky",
+      "sourceUrl": "https://poly.pizza/m/hG2Qr0A3zR",
+      "downloadUrls": [
+        "https://static.poly.pizza/6f3cef79-867c-4b3c-9d97-346e465e4079.glb"
+      ],
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "files": [
+        "models/helicopter-zsky.glb"
+      ],
+      "licenseEvidence": [
+        "licenses/helicopter-zsky.html",
+        "licenses/CC-BY-3.0.html"
+      ],
+      "modifications": "None; unchanged file."
+    },
+    {
+      "title": "Qwantani Sunset (Pure Sky)",
+      "creator": "Greg Zaal (photography), Jarod Guest (processing)",
+      "sourceUrl": "https://polyhaven.com/a/qwantani_sunset_puresky",
+      "downloadUrls": [
+        "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/qwantani_sunset_puresky_1k.hdr"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "environment/qwantani_sunset_puresky_1k.hdr"
+      ],
+      "licenseEvidence": [
+        "licenses/qwantani-sunset.html",
+        "licenses/qwantani-files.json",
+        "licenses/polyhaven-license.html",
+        "licenses/CC0-1.0.txt"
+      ],
+      "modifications": "None; unchanged 1K HDR source."
+    },
+    {
+      "title": "Rock Moss Set 02",
+      "creator": "Kless Gyzen",
+      "sourceUrl": "https://polyhaven.com/a/rock_moss_set_02",
+      "downloadUrls": [
+        "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/rock_moss_set_02/rock_moss_set_02_1k.gltf",
+        "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/rock_moss_set_02/rock_moss_set_02_nor_gl_1k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/rock_moss_set_02/rock_moss_set_02_diff_1k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/rock_moss_set_02/rock_moss_set_02_rough_1k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/rock_moss_set_02/rock_moss_set_02.bin"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "models/moss-rocks.glb",
+        "models/moss-rock.glb"
+      ],
+      "licenseEvidence": [
+        "licenses/rocks-polyhaven.html",
+        "licenses/rocks-files.json",
+        "licenses/polyhaven-license.html"
+      ],
+      "modifications": "Source 1K glTF and its JPEG textures embedded in self-contained GLB. Individual moss-rock.glb selects rock10, applies transforms, reduces triangles to 35% using Blender Decimate, and shifts vertex Y to place the base at ground level."
+    },
+    {
+      "title": "Gunshot Sounds",
+      "creator": "Tabasco",
+      "sourceUrl": "https://opengameart.org/content/gunshot-sounds",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/sounds.zip"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/pistol-shot.ogg",
+        "audio/rifle-shot.ogg",
+        "audio/shotgun-shot.ogg",
+        "audio/sniper-shot.ogg"
+      ],
+      "licenseEvidence": [
+        "licenses/gunshots-tabasco.html",
+        "sources/gunshots-tabasco/sounds/creativecommons.txt"
+      ],
+      "modifications": "Extracted individual CZ-52, SKS, shotgun, and Mosin shots; mono, 0.9 peak normalization, 5ms fades, OGG Vorbis. Exact times in audio/edits.json."
+    },
+    {
+      "title": "Gun reload sounds",
+      "creator": "SpringySpringo",
+      "sourceUrl": "https://opengameart.org/content/gun-reload-sounds",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/gunreload1.wav",
+        "https://opengameart.org/sites/default/files/assaultriflereload1_0.wav",
+        "https://opengameart.org/sites/default/files/shotguncock_0.wav"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/pistol-reload.wav",
+        "audio/rifle-reload.wav",
+        "audio/bolt.wav"
+      ],
+      "licenseEvidence": [
+        "licenses/reload-springyspringo.html"
+      ],
+      "modifications": "Renamed files only. Source gunreload1 => pistol-reload; assaultriflereload1_0 => rifle-reload; shotguncock_0 => bolt. Source is airsoft recording."
+    },
+    {
+      "title": "Gun Reload Sound Effects",
+      "creator": "Brian MacIntosh / BMacZero",
+      "sourceUrl": "https://opengameart.org/content/gun-reload-sound-effects",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/clipload2.wav",
+        "https://opengameart.org/sites/default/files/clipload1.wav",
+        "https://opengameart.org/sites/default/files/singlebullet1.wav"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/mag-in.wav",
+        "audio/mag-out.wav",
+        "audio/grenade-handle.wav"
+      ],
+      "licenseEvidence": [
+        "licenses/reload-bmaczero.html"
+      ],
+      "modifications": "Renamed only, audio unchanged. clipload2 => mag-in; clipload1 => mag-out; singlebullet1 => grenade-handle. The grenade filename is a suggested repurposing of handling foley, not a literal grenade recording."
+    },
+    {
+      "title": "Helicopter Sounds",
+      "creator": "aquinn",
+      "sourceUrl": "https://opengameart.org/content/helicopter-sounds",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/helicopter_0.mp3"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/helicopter-loop.ogg"
+      ],
+      "licenseEvidence": [
+        "licenses/helicopter-aquinn.html"
+      ],
+      "modifications": "Source seconds 0.5-3.7 converted to mono, normalized peak 0.9, 120ms loop seam crossfade, OGG Vorbis; output 3.08 seconds."
+    },
+    {
+      "title": "Footsteps",
+      "creator": "GboxMikeFozzy",
+      "sourceUrl": "https://opengameart.org/content/footsteps-0",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/01-footstep_0.ogg",
+        "https://opengameart.org/sites/default/files/02-footstep.ogg",
+        "https://opengameart.org/sites/default/files/03-footstep.ogg",
+        "https://opengameart.org/sites/default/files/04-footstep.ogg",
+        "https://opengameart.org/sites/default/files/05-footstep.ogg",
+        "https://opengameart.org/sites/default/files/06-footstep.ogg"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/footstep-1.ogg",
+        "audio/footstep-2.ogg",
+        "audio/footstep-3.ogg",
+        "audio/footstep-4.ogg",
+        "audio/footstep-5.ogg",
+        "audio/footstep-6.ogg"
+      ],
+      "licenseEvidence": [
+        "licenses/footsteps-gboxmike.html"
+      ],
+      "modifications": "Renamed files only; recording data unchanged. Hard-surface footsteps recorded in a subway."
+    },
+    {
+      "title": "equipment clicks III",
+      "creator": "LFA",
+      "sourceUrl": "https://opengameart.org/content/equipment-clicks-iii",
+      "downloadUrls": [
+        "https://opengameart.org/sites/default/files/equipment_clicks3.wav"
+      ],
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/equipment-action-1.ogg",
+        "audio/equipment-action-2.ogg",
+        "audio/equipment-action-3.ogg"
+      ],
+      "licenseEvidence": [
+        "licenses/equipment-lfa.html"
+      ],
+      "modifications": "Three excerpts converted to mono OGG, normalized peak 0.9 with 5ms fades. Exact times in audio/edits.json. Source collection includes actual rifle, stapler, and tape-measure sounds; individual mechanisms are not labeled."
+    }
+  ],
+  "files": {
+    "models/attack-helicopter.glb": {
+      "bytes": 1159564,
+      "sha256": "e4fe15c2b17a2094e2b6f21b1c6f1b2f82c2da1c355a3afc1dc135f7d5f16e03",
+      "triangles": 2888,
+      "embeddedImages": 1,
+      "extensionsRequired": []
+    },
+    "models/helicopter-zsky.glb": {
+      "bytes": 80752,
+      "sha256": "08894cd4be8a628420657ad5c7fbceaa75a658450c33a757018c06a99c6fb4ae",
+      "triangles": 1088,
+      "embeddedImages": 0,
+      "extensionsRequired": []
+    },
+    "environment/qwantani_sunset_puresky_1k.hdr": {
+      "bytes": 1061624,
+      "sha256": "e90f2130848de0364b76d2b3da7a72ce31bbb95d66bd86d5b4f85f0626421b8d"
+    },
+    "models/moss-rocks.glb": {
+      "bytes": 1937980,
+      "sha256": "847b85bc3ee49223a5d14f3937cb1bb45619ea67a20458feb18aa90f580540d6",
+      "triangles": 57647,
+      "embeddedImages": 3,
+      "extensionsRequired": []
+    },
+    "models/moss-rock.glb": {
+      "bytes": 682240,
+      "sha256": "9c268372ae44127be1ad65ef69cf0fbc273a69f907657353d828db99d22a66ca",
+      "triangles": 2799,
+      "embeddedImages": 3,
+      "extensionsRequired": []
+    },
+    "audio/pistol-shot.ogg": {
+      "bytes": 15495,
+      "sha256": "0f367cc2c1892e477d5ab6c3d352a1b974760075e544ae79b90635ca2e85b72e",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 1.5,
+      "peak": 0.90217,
+      "decodedSuccessfully": true
+    },
+    "audio/rifle-shot.ogg": {
+      "bytes": 14246,
+      "sha256": "d1b917addfc1f340e158b9a9dec9a4388e77787305b9e68f30108e10d51267f6",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 1.33,
+      "peak": 0.88232,
+      "decodedSuccessfully": true
+    },
+    "audio/shotgun-shot.ogg": {
+      "bytes": 8685,
+      "sha256": "7b6b11dfb6633b7ab2dcb06ae927621868d42ddaed54d749684d34088a67fd21",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.6979,
+      "peak": 0.97265,
+      "decodedSuccessfully": true
+    },
+    "audio/sniper-shot.ogg": {
+      "bytes": 12834,
+      "sha256": "2d675e614bee629013fc822de1a8a2ef817fc80640c1ddb7c9b0b30111706a0e",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 1.18,
+      "peak": 1.00193,
+      "decodedSuccessfully": true
+    },
+    "audio/pistol-reload.wav": {
+      "bytes": 278572,
+      "sha256": "685cac6a184e3cc3ec09a25b6ddb1d6feffd86d469778f339aa423d384035c50",
+      "sampleRate": 44100,
+      "channels": 2,
+      "durationSeconds": 1.57896,
+      "peak": 1.0,
+      "decodedSuccessfully": true
+    },
+    "audio/rifle-reload.wav": {
+      "bytes": 274476,
+      "sha256": "efb2d724d634eabe6ba8d3065686abca848bb7497d4d43a5e4aed5e5ea23016f",
+      "sampleRate": 44100,
+      "channels": 2,
+      "durationSeconds": 1.55574,
+      "peak": 1.0,
+      "decodedSuccessfully": true
+    },
+    "audio/bolt.wav": {
+      "bytes": 83628,
+      "sha256": "33e007321ba83301c861aef573f2c40b70bc62f8f24c0164877e6dd123e24371",
+      "sampleRate": 44100,
+      "channels": 2,
+      "durationSeconds": 0.47383,
+      "peak": 1.0,
+      "decodedSuccessfully": true
+    },
+    "audio/mag-in.wav": {
+      "bytes": 18476,
+      "sha256": "a5441641e7e9ede24f3ac311642e06265c6f480e3b1ba4b92c19c81c3a5e4d86",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 0.20898,
+      "peak": 0.9361,
+      "decodedSuccessfully": true
+    },
+    "audio/mag-out.wav": {
+      "bytes": 22572,
+      "sha256": "1cdc10c50a26834ce7562a5f2925b9aa1118e3bb58a86fea80f34558bf2c5101",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 0.25542,
+      "peak": 0.99994,
+      "decodedSuccessfully": true
+    },
+    "audio/grenade-handle.wav": {
+      "bytes": 26668,
+      "sha256": "422bb2b92072cf8ecb77fda83e70d27bdcb7fa8cee33415ef66985a8cc14dde2",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 0.30186,
+      "peak": 0.76544,
+      "decodedSuccessfully": true
+    },
+    "audio/helicopter-loop.ogg": {
+      "bytes": 29416,
+      "sha256": "01948c0525c95f173b05f00b9cb3b8cf085eb9f8cfedda914f2fa220b7085b9c",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 3.08,
+      "peak": 0.89057,
+      "decodedSuccessfully": true
+    },
+    "audio/footstep-1.ogg": {
+      "bytes": 9715,
+      "sha256": "33c9bef5e8aeb1069455699a34a0c5e1ef1787fd3f61594b0859d7e6bb9f9dec",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.15392,
+      "peak": 0.07938,
+      "decodedSuccessfully": true
+    },
+    "audio/footstep-2.ogg": {
+      "bytes": 10531,
+      "sha256": "f05396c807eb8eaecffb2a1ead611ec971c5a7914d1d081c91d7796e852692a2",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.16871,
+      "peak": 0.08681,
+      "decodedSuccessfully": true
+    },
+    "audio/footstep-3.ogg": {
+      "bytes": 14136,
+      "sha256": "9817cc93897ed1de5da87675b26be4196bfda3daa6f1de9dc4398a68d250cdb9",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.31671,
+      "peak": 0.07975,
+      "decodedSuccessfully": true
+    },
+    "audio/footstep-4.ogg": {
+      "bytes": 13771,
+      "sha256": "b373ff981e44d6f7ba2291225a4803078771029615ed81606136fdb9599906d5",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.333,
+      "peak": 0.14745,
+      "decodedSuccessfully": true
+    },
+    "audio/footstep-5.ogg": {
+      "bytes": 13595,
+      "sha256": "f1b4893dd3cebe23438567a0dcaf047848a52b594e7eb03e5c212d99e83d2298",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.31375,
+      "peak": 0.07982,
+      "decodedSuccessfully": true
+    },
+    "audio/footstep-6.ogg": {
+      "bytes": 11329,
+      "sha256": "39147cc1b98abb4b5378ad07b15d50d18f2aa0f0fd2f5514f078c1e574d14773",
+      "sampleRate": 48000,
+      "channels": 1,
+      "durationSeconds": 0.24567,
+      "peak": 0.08682,
+      "decodedSuccessfully": true
+    },
+    "audio/equipment-action-1.ogg": {
+      "bytes": 9219,
+      "sha256": "084d7ad994a5f8cb86067ffe27089dc559828e2db8efa4b55e2b1e4a961ed69d",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 0.64,
+      "peak": 1.04161,
+      "decodedSuccessfully": true
+    },
+    "audio/equipment-action-2.ogg": {
+      "bytes": 9922,
+      "sha256": "37f75b9a6992c0d443d39e5b47c3fdad63445a16db13bca31a7da6be75774029",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 0.72,
+      "peak": 1.01323,
+      "decodedSuccessfully": true
+    },
+    "audio/equipment-action-3.ogg": {
+      "bytes": 10384,
+      "sha256": "ca2b54898a76d7c5039b58e2a4ecd7f9e191f317202b88acd122eccd18c02a60",
+      "sampleRate": 44100,
+      "channels": 1,
+      "durationSeconds": 0.68002,
+      "peak": 1.0753,
+      "decodedSuccessfully": true
+    }
+  },
+  "notes": [
+    "No ripped or proprietary game assets used.",
+    "BlackHawk by ChrisKuhn was researched but could not be downloaded without sign-in; its model is NOT included. The saved page is research evidence only.",
+    "Recommended aircraft requires CC BY 4.0 credit; optional utility fallback requires CC BY 3.0 credit. All other delivered assets are CC0.",
+    "Sound quality reflects original field recordings; gunshot source author notes the recording device did not perfectly handle loud volume.",
+    "Reproduction scripts and original source files are retained outside the Site checkout."
+  ]
+}

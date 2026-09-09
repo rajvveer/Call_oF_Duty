@@ -1,0 +1,142 @@
+[
+  {
+    "file": "public/assets/weapons-real/smg45.glb",
+    "title": "M3 / SMG45",
+    "creator": "DJMaesen",
+    "license": "CC BY 4.0",
+    "source": "https://sketchfab.com/3d-models/fps-animated-smg-ea3dad7478624495a5a46f40127b0579",
+    "modifications": "Original geometry, UVs and PBR maps preserved; texturemax1024; color/ORMquality94JPEG4:4:4, normalPNG; transformedto+X; normalizedlength; authored movingmechanisms separated; unneeded arms/spareparts andunusedanimationaccessors removed. Grippositions are visual estimates.",
+    "bytes": 2548060,
+    "sha256": "3e466eb1acbe8eb5b81ae6dec3e6d3e92a52d3ac3f9dab3d40cb8010483ecc7c"
+  },
+  {
+    "file": "public/assets/weapons-real/ak74.glb",
+    "title": "AK-74M",
+    "creator": "Cransh (animation), creationwasteland (rifle geometry)",
+    "license": "CC BY 4.0",
+    "source": "https://sketchfab.com/3d-models/fps-ak-74m-animations-94be8385c402474cacd39bc096c6ca14",
+    "modifications": "Original geometry, UVs and PBR maps preserved; texturemax1024; color/ORMquality94JPEG4:4:4, normalPNG; transformedto+X; normalizedlength; authored movingmechanisms separated; unneeded arms/spareparts andunusedanimationaccessors removed. Grippositions are visual estimates.",
+    "bytes": 3292936,
+    "sha256": "46094014a6964703fa038c796adeda27dae5454fc6e7abc09d7053dddc481748"
+  },
+  {
+    "file": "public/assets/weapons-real/m4a1.glb",
+    "title": "M4A1",
+    "creator": "nisu",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/m4a1-assault-rifle",
+    "modifications": "Original geometry, UVs and PBR maps preserved; texturemax1024; color/ORMquality94JPEG4:4:4, normalPNG; transformedto+X; normalizedlength; authored movingmechanisms separated; unneeded arms/spareparts andunusedanimationaccessors removed. Grippositions are visual estimates.",
+    "bytes": 1325368,
+    "sha256": "e6a113cf17f843c2f0b3eb85f40238d0687207c44e55c4389a857e156cd2c6aa"
+  },
+  {
+    "file": "public/assets/weapons-real/deagle.glb",
+    "title": "Desert Eagle",
+    "creator": "ELIZION",
+    "license": "CC BY 4.0",
+    "source": "https://sketchfab.com/3d-models/desert-eagle-cabde59f5cf24effaf80536e35d04e95",
+    "modifications": "Original geometry, UVs and PBR maps preserved; texturemax1024; color/ORMquality94JPEG4:4:4, normalPNG; transformedto+X; normalizedlength; authored movingmechanisms separated; unneeded arms/spareparts andunusedanimationaccessors removed. Grippositions are visual estimates.",
+    "bytes": 6145872,
+    "sha256": "499e685870925859275d4c970d9d063a4ee0a9ebfce20c234cc6aa9ebc83851d"
+  },
+  {
+    "file": "public/assets/weapons-real/revolver.glb",
+    "title": "Detective Special",
+    "creator": "LonesomeDucky",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/detective-special-revolver",
+    "modifications": "Original geometry, UVs and PBR maps preserved; texturemax1024; color/ORMquality94JPEG4:4:4, normalPNG; transformedto+X; normalizedlength; authored movingmechanisms separated; unneeded arms/spareparts andunusedanimationaccessors removed. Grippositions are visual estimates.",
+    "bytes": 2649704,
+    "sha256": "74d7898c0586615ed0c8f60e27c2e1d20c66bf15f61af95307d83d07c7c5ec9c"
+  },
+  {
+    "file": "public/assets/weapons-real/akm.glb",
+    "title": "AKM",
+    "creator": "LonesomeDucky",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/akm",
+    "modifications": "Original geometry, UVs and PBR maps preserved; texturemax1024; color/ORMquality94JPEG4:4:4, normalPNG; transformedto+X; normalizedlength; authored movingmechanisms separated; unneeded arms/spareparts andunusedanimationaccessors removed. Grippositions are visual estimates.",
+    "bytes": 2502612,
+    "sha256": "3dfd640fc8b86acc4e550efcc3fc52171a6496254d868ff92a9d326cae65eb8c"
+  },
+  {
+    "file": "public/assets/weapons-real/lightning.glb",
+    "title": "lightning",
+    "creator": "LonesomeDucky",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/lightning-pump-action-rifle",
+    "modifications": "Static geometry, normalized +X forward, authored textures limited to1024, grip markers. Remington uses new plain metal and wood materials.",
+    "bytes": 2516352,
+    "sha256": "76cc9ba1abf6f0def094029ce7564310c7891143b083241bf0b63a0fad269791"
+  },
+  {
+    "file": "public/assets/weapons-real/hunting.glb",
+    "title": "hunting",
+    "creator": "Lucian Pavel",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/hunting-rifle",
+    "modifications": "Static geometry, normalized +X forward, authored textures limited to1024, grip markers. Remington uses new plain metal and wood materials.",
+    "bytes": 3414900,
+    "sha256": "484f9bb5425414b91b9d09706d7309828f2713bec39748ff550ac95ba4068951"
+  },
+  {
+    "file": "public/assets/weapons-real/remington870.glb",
+    "title": "remington870",
+    "creator": "MikeMoon",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/shotgun-1",
+    "modifications": "Static geometry, normalized +X forward, authored textures limited to1024, grip markers. Remington uses new plain metal and wood materials.",
+    "bytes": 31520,
+    "sha256": "a97f6232ff9f47eee6ca24c731de1247dd5ab34a1bac08b649227d01d457c6fd"
+  },
+  {
+    "file": "public/assets/weapons-real/pistol.glb",
+    "title": "pistol",
+    "creator": "arcade_b",
+    "license": "CC BY 4.0",
+    "source": "https://opengameart.org/content/low-res-pistol",
+    "modifications": "Static geometry, normalized +X forward, authored textures limited to1024, grip markers. Remington uses new plain metal and wood materials.",
+    "bytes": 1474976,
+    "sha256": "6cfc56a6b69eecd6afc68ad0c0348369dcfccaaff40ff54842d7e783598e28ce"
+  },
+  {
+    "file": "public/assets/weapons-real/wa2000.glb",
+    "title": "WA2000",
+    "creator": "ExodeCode",
+    "license": "CC BY 4.0",
+    "source": "https://exode.itch.io/wa2000",
+    "modifications": "Converted the creator FBX to GLB; retained authored geometry and PBR maps; separated the actual scope, magazine and lens components; normalized to +X forward; added measured optical markers and estimated grip anchors; maps limited to 1K; color and packed maps compressed as quality 94 JPEG; normal map retained as PNG. Profile preview rendered from this model.",
+    "bytes": 2782540,
+    "sha256": "4a24356b24671b413bcf26363cae481ef2926fd86251e2eb2b9593d20a4c3e82"
+  },
+  {
+    "file": "public/assets/weapons-real/scoped-hunting.glb",
+    "title": "Scoped Hunting Rifle",
+    "creator": "Lucian Pavel (rifle), LonesomeDucky (scope)",
+    "license": "CC0",
+    "source": "https://opengameart.org/content/hunting-rifle",
+    "modifications": "Scoped configuration of the existing Hunting Rifle. Added the authored Rifle Scope by LonesomeDucky (https://opengameart.org/content/rifle-scope), preserving its geometry and PBR maps. Project-authored clamp rings and stems fit the scope to the receiver. Original lens cap faces separated, optical markers measured, whole assembly centered with +X forward, maps limited to 1K and compressed. No new rifle identity, bolt or detachable magazine was invented; profile preview rendered from this assembly.",
+    "bytes": 3111788,
+    "sha256": "3c8b1a9a759f132789934042b03d1988eef4605f1c613db32a9a4ccaf77c3156"
+  },
+  {
+    "file": "public/assets/weapons-real/knife.glb",
+    "title": "Field Knife",
+    "creator": "3DModelsCC0; GLB conversion by BoQsc",
+    "license": "CC0",
+    "source": "https://3dmodelscc0.itch.io/free-cc0-melee-weapons-pack",
+    "modifications": "Normalized scale and +X forward; added grip and tip frames. Knife textures limited to 1K; syringe retains authored components. Runtime hand pose and action animation added.",
+    "bytes": 1128928,
+    "sha256": "6ed858c5157e9247b83536eaeeef1fff8f7cd1c8211c0659b93c94622a2ae4c8"
+  },
+  {
+    "file": "public/assets/weapons-real/syringe.glb",
+    "title": "Healing Syringe",
+    "creator": "J-Toastie",
+    "license": "CC BY 3.0",
+    "source": "https://poly.pizza/m/MURJ8NK4N9",
+    "modifications": "Normalized scale and +X forward; added grip and tip frames. Knife textures limited to 1K; syringe retains authored components. Runtime hand pose and action animation added.",
+    "bytes": 63280,
+    "sha256": "2ec5dd4d31761aec533892ad4a6aed28213626cdf58f069a5f89a6c054f582fc"
+  }
+]

@@ -1,0 +1,1716 @@
+[
+  {
+    "file": "weapons/blaster-a.glb",
+    "name": "blaster-a",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 55204,
+    "triangles": 470,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "0b43fb493917d2404591e1e0e0baff6ce27a81256297aea14ef06c1afa26619a"
+  },
+  {
+    "file": "weapons/blaster-b.glb",
+    "name": "blaster-b",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 44636,
+    "triangles": 368,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "ca5dbb9c6d55d38fc24a28e8dbd8a42271be495c804ee8e30ecf8edae902b303"
+  },
+  {
+    "file": "weapons/blaster-c.glb",
+    "name": "blaster-c",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 46488,
+    "triangles": 388,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "e08322427718a8c7624f10d0e821f8b92adeed339c6f2896132e4de2c406de25"
+  },
+  {
+    "file": "weapons/blaster-d.glb",
+    "name": "blaster-d",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 55292,
+    "triangles": 486,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "88b4c3d2e324262476b8be7e0891ea5d115ac0a5825ea454e4d4265842318ff1"
+  },
+  {
+    "file": "weapons/blaster-e.glb",
+    "name": "blaster-e",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 85632,
+    "triangles": 802,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 3,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "5e8944fd7405a188a85ad689ab680d478d0ba090f61edae775f3ab8175be5949"
+  },
+  {
+    "file": "weapons/blaster-f.glb",
+    "name": "blaster-f",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 82644,
+    "triangles": 768,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 3,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "287c4b49ce428f064e201964951690ff00de8d3e392a1aef809df05b3f53b1d5"
+  },
+  {
+    "file": "weapons/blaster-g.glb",
+    "name": "blaster-g",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 66496,
+    "triangles": 618,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "096ce87d50b6f5f908eaef65f21f07a5563bbeb5f9a5f0681f3970dcb0fcf3fd"
+  },
+  {
+    "file": "weapons/blaster-h.glb",
+    "name": "blaster-h",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 38636,
+    "triangles": 296,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "1916b8ea310999092a3fe3560d5119aa30a714cdbfef69f1659dbbb668924564"
+  },
+  {
+    "file": "weapons/blaster-i.glb",
+    "name": "blaster-i",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 48860,
+    "triangles": 416,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "df1d3283765ce1da00bea7ddd36e0d4e173c6daa0b899264b853ee9871c308fd"
+  },
+  {
+    "file": "weapons/blaster-j.glb",
+    "name": "blaster-j",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 60856,
+    "triangles": 548,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "645937b391c8258cff2fbbc58d60ccdfdbc1a3a8b24b5b07a44fa78649c16533"
+  },
+  {
+    "file": "weapons/blaster-k.glb",
+    "name": "blaster-k",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 45932,
+    "triangles": 392,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "a12d9b6fec5ccd86ebb457185ae2629d3b05b7e284f4f141f104aad2139c55df"
+  },
+  {
+    "file": "weapons/blaster-l.glb",
+    "name": "blaster-l",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 52104,
+    "triangles": 450,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "aadec5bfad7c2b2178b0972ef4137ef16983cd94915a4eb10049ec96ce6255d4"
+  },
+  {
+    "file": "weapons/blaster-m.glb",
+    "name": "blaster-m",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 51788,
+    "triangles": 440,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "0eea873e5c0688376b23fc2e00769ed283dec89ba2dc6abac9c938d56f02d2d4"
+  },
+  {
+    "file": "weapons/blaster-n.glb",
+    "name": "blaster-n",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 48632,
+    "triangles": 410,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "709e707e536b2a1a87e2b42855bf7cddd9d8653a99823c7a430c624a5c16e430"
+  },
+  {
+    "file": "weapons/blaster-o.glb",
+    "name": "blaster-o",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 69652,
+    "triangles": 664,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "a0832177b70fcc63a610690cfeace2c85c57ccde3d4582e475c7ae145db6a215"
+  },
+  {
+    "file": "weapons/blaster-p.glb",
+    "name": "blaster-p",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 90680,
+    "triangles": 882,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "fd3436788e3954765b2a65189f4584cbb02b0a85f0e3c514e878c59baae875bf"
+  },
+  {
+    "file": "weapons/blaster-q.glb",
+    "name": "blaster-q",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 66112,
+    "triangles": 602,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "e1dabf9a309f7434fd7afc8446914fe580b47e3b6efc9969dcf48709be36ffd4"
+  },
+  {
+    "file": "weapons/blaster-r.glb",
+    "name": "blaster-r",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 59140,
+    "triangles": 524,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "d0f1c25a9cd47d81a466ee9259341e00cd706a77b6900cba987a7fc386f57688"
+  },
+  {
+    "file": "weapons/crate-medium.glb",
+    "name": "crate-medium",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 69516,
+    "triangles": 628,
+    "animations": [
+      "open",
+      "close",
+      "open-close"
+    ],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "8601896701bea0428344ccf2f963f53ffffd135fa678b6cd99d9a8dcbfc0c8e5"
+  },
+  {
+    "file": "weapons/crate-wide.glb",
+    "name": "crate-wide",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 69572,
+    "triangles": 628,
+    "animations": [
+      "open",
+      "close",
+      "open-close"
+    ],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "364fd038f1dc1df589e8fb6cc40bf75cf50cc036e13ccccdf4d7d531e04732c1"
+  },
+  {
+    "file": "weapons/grenade-a.glb",
+    "name": "grenade-a",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 29524,
+    "triangles": 200,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "8bed7ca512ac4d36a27a6651bb86566d1b7f49280f8c1053cb8da1d755538712"
+  },
+  {
+    "file": "weapons/grenade-b.glb",
+    "name": "grenade-b",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 26464,
+    "triangles": 154,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "5f66aea5b49065fd115e1d4392986167a209913ec57c8535166d2295f5937fcd"
+  },
+  {
+    "file": "weapons/scope-small.glb",
+    "name": "scope-small",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 29724,
+    "triangles": 200,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "346936272d9329d44e31e42456f78db2082f55012bbfc423f5431d8d47ab1f45"
+  },
+  {
+    "file": "weapons/scope-large-a.glb",
+    "name": "scope-large-a",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 29724,
+    "triangles": 196,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "87a48df4b396bd117f31aed1b37d1363c5ec00c6fa5be14ff139f17c89028120"
+  },
+  {
+    "file": "weapons/silencer-small.glb",
+    "name": "silencer-small",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 19208,
+    "triangles": 92,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "0c1e293303f11bdb51efcf9658352cee7bd285cc155f45104a6ac3477e08fd11"
+  },
+  {
+    "file": "industrial/building-a.glb",
+    "name": "building-a",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 189336,
+    "triangles": 2046,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "789ff944f0ef933cb5e550b41ff389308de6f5629122b93dfb3dba277f261edd"
+  },
+  {
+    "file": "industrial/building-b.glb",
+    "name": "building-b",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 224060,
+    "triangles": 2422,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "569a0bae07bf347f3c1262da4b1efe6162befba9e6c298a3da53959f32826a72"
+  },
+  {
+    "file": "industrial/building-c.glb",
+    "name": "building-c",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 187868,
+    "triangles": 1928,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "8dcbd34479071612e546c1973b6f52a682db4c69ec2300b2d9633e6842fc0adc"
+  },
+  {
+    "file": "industrial/building-d.glb",
+    "name": "building-d",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 112792,
+    "triangles": 1158,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "40e18ca308e8c9b00966c634621403aa93b584afc66089d1551972cf671529db"
+  },
+  {
+    "file": "industrial/building-e.glb",
+    "name": "building-e",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 141416,
+    "triangles": 1484,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "1c77a06868a3e4a10ef779df45cd09a5cbfa33252fde54dfdebd10b6f0cc1859"
+  },
+  {
+    "file": "industrial/building-f.glb",
+    "name": "building-f",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 146940,
+    "triangles": 1552,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "0c76473f23c20d390e577253ac0592a355f3ca58d405609873a19a371cc80c28"
+  },
+  {
+    "file": "industrial/building-g.glb",
+    "name": "building-g",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 118960,
+    "triangles": 1242,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "0465f046efce1b6f65233b210e3c4bb3f765d661d92f1f0f3d4c452f8b3d0d4f"
+  },
+  {
+    "file": "industrial/building-h.glb",
+    "name": "building-h",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 75664,
+    "triangles": 698,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "c540917e81b7aa8af6f4a037f806115c7e8ade761561f4307f0cfa3426449070"
+  },
+  {
+    "file": "industrial/building-i.glb",
+    "name": "building-i",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 85868,
+    "triangles": 798,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "7e9d5a3ecd42a70ff2e6b6dbc584c663580eda0b3aea32eff3a54dd49ad7da9e"
+  },
+  {
+    "file": "industrial/building-j.glb",
+    "name": "building-j",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 92812,
+    "triangles": 886,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "66499d829604909f9a4a6d7d276b1b2daa94ba65b7a054b119dca4671b3ebb72"
+  },
+  {
+    "file": "industrial/building-k.glb",
+    "name": "building-k",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 77492,
+    "triangles": 702,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "e2a6bec154263144dbafc2adeb47b3a591c73872b3f7e8ba9c3f5ced309c02fe"
+  },
+  {
+    "file": "industrial/building-l.glb",
+    "name": "building-l",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 174448,
+    "triangles": 1896,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "e441b7bc59ee4a18d20eb92303eab9263f332478443e69abc679362e384d9b28"
+  },
+  {
+    "file": "industrial/building-m.glb",
+    "name": "building-m",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 150940,
+    "triangles": 1694,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "ce4da8c110f1f255b34b61fd5d5293d00e21567f2bea4f6e27da100270bd4ce8"
+  },
+  {
+    "file": "industrial/building-n.glb",
+    "name": "building-n",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 121280,
+    "triangles": 1262,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "013fcfacbfe7096494ed0a1dfb2ed7635bc5bc79db1599086e78c2cb71bb209e"
+  },
+  {
+    "file": "industrial/building-o.glb",
+    "name": "building-o",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 88572,
+    "triangles": 868,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "2594c35fa8fe24b1c7868048ebab083986aa735711fceb1db7f8972d820e4788"
+  },
+  {
+    "file": "industrial/building-p.glb",
+    "name": "building-p",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 115776,
+    "triangles": 1162,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "1e75e97dcc0abc97056e2a533fe6bd19b2549624a08644649601feba8cc1ede9"
+  },
+  {
+    "file": "industrial/building-q.glb",
+    "name": "building-q",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 193268,
+    "triangles": 2062,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "3d03d70ea736ba2060ce1c382b55743bfc91088a48e71e8aab69e36e529e9261"
+  },
+  {
+    "file": "industrial/building-r.glb",
+    "name": "building-r",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 185080,
+    "triangles": 1912,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "6ddde92204944644d70e9c919440af66953f17e4b7e3b53a39604ec9f982651d"
+  },
+  {
+    "file": "industrial/building-s.glb",
+    "name": "building-s",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 93208,
+    "triangles": 876,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "32d003e2ec8bb12630918f6024660fad8481890ad8bc4293da4826af78a23183"
+  },
+  {
+    "file": "industrial/building-t.glb",
+    "name": "building-t",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 151920,
+    "triangles": 1586,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "bbdf579fceff8f85e1a6c7c247cbe214d60a6645a9155cc4ddb4bcf66e876f56"
+  },
+  {
+    "file": "industrial/chimney-basic.glb",
+    "name": "chimney-basic",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 21052,
+    "triangles": 88,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "98c89e2e3e8fbc06223ddcf6de4e9a778cbd8e31e0d8ef596f2621d27641ab89"
+  },
+  {
+    "file": "industrial/chimney-large.glb",
+    "name": "chimney-large",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 32940,
+    "triangles": 218,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "a02374d515ccabc3e42fde9fd574b93e81f915a25e44a5abb94d8ec908f13c13"
+  },
+  {
+    "file": "industrial/detail-tank.glb",
+    "name": "detail-tank",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 43456,
+    "triangles": 310,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "156316f4c11ee95ab525e904a5ad7c6dd1e03179d5d8d5531f2b6535bbda4ff2"
+  },
+  {
+    "file": "industrial/detail-tank-large.glb",
+    "name": "detail-tank-large",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 59464,
+    "triangles": 566,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "20fe25669b53ab510d5eb7adb1287e03a9eed443969d27df3a073d25d1ab6c20"
+  },
+  {
+    "file": "industrial/shipping-container-a.glb",
+    "name": "shipping-container-a",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 48648,
+    "triangles": 402,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "79605f8aea0f9bf748f4f79d0ef48cbed31e34d5c9c4da369b46c9496a308248"
+  },
+  {
+    "file": "industrial/shipping-container-b.glb",
+    "name": "shipping-container-b",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 49072,
+    "triangles": 402,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "3c03ce418c54959247243e13a98606f02eeaefb63421545be4035369b825f843"
+  },
+  {
+    "file": "industrial/shipping-container-c.glb",
+    "name": "shipping-container-c",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 48648,
+    "triangles": 402,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "13276e115f616a8f908356dc2ce1c20a6411073a2e1867f4a48c900a60d23977"
+  },
+  {
+    "file": "industrial/water-tower.glb",
+    "name": "water-tower",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 105848,
+    "triangles": 968,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "657c7e02cb2c73ae4cc11da86a0753f5f1d17cbdad240d6a16b297dbf65ecf09"
+  },
+  {
+    "file": "industrial/windmill.glb",
+    "name": "windmill",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 58284,
+    "triangles": 456,
+    "animations": [],
+    "materials": [
+      "colormap"
+    ],
+    "meshes": 2,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "36a7416c926d9a1cce296c0c7da04a0f6c2d9a82287d83c6a02a2f901333380d"
+  },
+  {
+    "file": "industrial/solar-panel-landscape-group.glb",
+    "name": "solar-panel-landscape-group",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 93864,
+    "triangles": 976,
+    "animations": [],
+    "materials": [
+      "colormap",
+      "colormap-specular"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Embedded source palette texture"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "52a0ae4036d916ad34273f9e2c6bfb269f4d0d704f26db0a692dc6531d5a49fa"
+  },
+  {
+    "file": "nature/tree_pineTallA_detailed.glb",
+    "name": "tree_pineTallA_detailed",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 10712,
+    "triangles": 134,
+    "animations": [],
+    "materials": [
+      "woodBarkDark",
+      "leafsDark"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "322fdc3b54862fad794b3d0893ffc1a34b59850c5841a8c0567f6addfa4e6d78"
+  },
+  {
+    "file": "nature/tree_pineTallB_detailed.glb",
+    "name": "tree_pineTallB_detailed",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 12636,
+    "triangles": 166,
+    "animations": [],
+    "materials": [
+      "leafsDark",
+      "woodBarkDark"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "17def0e0d0a53abe8db1fd91467400706a7f85bb4fa6e34e98fb98d63fb49936"
+  },
+  {
+    "file": "nature/tree_pineDefaultA.glb",
+    "name": "tree_pineDefaultA",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 17224,
+    "triangles": 230,
+    "animations": [],
+    "materials": [
+      "leafsDark",
+      "woodBarkDark"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "b1a7fefe568d54a91e3b8b9dc2835a4c46ea118e4ce039865b11d0591f674c0c"
+  },
+  {
+    "file": "nature/tree_pineRoundC.glb",
+    "name": "tree_pineRoundC",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 15336,
+    "triangles": 206,
+    "animations": [],
+    "materials": [
+      "leafsDark",
+      "woodBarkDark"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "fb3861010104419815e291d2ead333f591b8b7ee703ce351b832645a264adb33"
+  },
+  {
+    "file": "nature/rock_largeA.glb",
+    "name": "rock_largeA",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 7556,
+    "triangles": 80,
+    "animations": [],
+    "materials": [
+      "dirt",
+      "grass"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "4354517dde50d72339aed06b61fb5d8f585868d7df9525e088e2f636de036505"
+  },
+  {
+    "file": "nature/rock_largeB.glb",
+    "name": "rock_largeB",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 8564,
+    "triangles": 85,
+    "animations": [],
+    "materials": [
+      "dirt",
+      "_defaultMat",
+      "grass"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "5b89535fe3d6f1a2c7e38e8d2e866bd2c529cc2a06aab2fa7e77fc6cb24364d8"
+  },
+  {
+    "file": "nature/rock_largeC.glb",
+    "name": "rock_largeC",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 7008,
+    "triangles": 72,
+    "animations": [],
+    "materials": [
+      "dirt",
+      "grass"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "8f0823573f81e885d2a0ebb596c9b9961af32f044518a2c74219eac2929a5570"
+  },
+  {
+    "file": "nature/rock_tallA.glb",
+    "name": "rock_tallA",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 12080,
+    "triangles": 136,
+    "animations": [],
+    "materials": [
+      "dirt",
+      "grass",
+      "_defaultMat"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "5cfdf62b14eaff5183276bb5561ef0e11759597582c7338c724a699483d70c63"
+  },
+  {
+    "file": "nature/rock_tallB.glb",
+    "name": "rock_tallB",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 14064,
+    "triangles": 172,
+    "animations": [],
+    "materials": [
+      "dirt",
+      "grass",
+      "_defaultMat"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "9de86b6084c92fbf20cf3a4a25ec3bf069ee781278db37ef330ae6a540281d72"
+  },
+  {
+    "file": "nature/cliff_large_rock.glb",
+    "name": "cliff_large_rock",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 3560,
+    "triangles": 32,
+    "animations": [],
+    "materials": [
+      "dirt"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "ba7a4945f4a799b1277f8d6194e0b02425d849cc70bdb7b97f15b5dcfb2cb0bf"
+  },
+  {
+    "file": "nature/cliff_cornerLarge_rock.glb",
+    "name": "cliff_cornerLarge_rock",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 2380,
+    "triangles": 12,
+    "animations": [],
+    "materials": [
+      "dirt"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "f094ff87c03d7791d1378bf390c734476605bc861350bef6783764910565579e"
+  },
+  {
+    "file": "nature/bridge_wood.glb",
+    "name": "bridge_wood",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 15700,
+    "triangles": 220,
+    "animations": [],
+    "materials": [
+      "woodBark",
+      "wood",
+      "stone"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "3865e96d8d3a5314b92ce5512a76f2285d1d9c305079816eaf63401d1e5d173a"
+  },
+  {
+    "file": "nature/bridge_stone.glb",
+    "name": "bridge_stone",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "creator": "Kenney",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 17712,
+    "triangles": 252,
+    "animations": [],
+    "materials": [
+      "stone",
+      "stoneDark"
+    ],
+    "meshes": 1,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "756094390e05be24472e3effc2fb138bd0b3231b7172ecab1cd397708bee0ccc"
+  },
+  {
+    "file": "operator/swat.glb",
+    "name": "swat",
+    "source": "https://poly.pizza/m/Btfn3G5Xv4",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 1517460,
+    "triangles": 7752,
+    "animations": [
+      "CharacterArmature|Death",
+      "CharacterArmature|Gun_Shoot",
+      "CharacterArmature|HitRecieve",
+      "CharacterArmature|HitRecieve_2",
+      "CharacterArmature|Idle",
+      "CharacterArmature|Idle_Gun",
+      "CharacterArmature|Idle_Gun_Pointing",
+      "CharacterArmature|Idle_Gun_Shoot",
+      "CharacterArmature|Idle_Neutral",
+      "CharacterArmature|Idle_Sword",
+      "CharacterArmature|Interact",
+      "CharacterArmature|Kick_Left",
+      "CharacterArmature|Kick_Right",
+      "CharacterArmature|Punch_Left",
+      "CharacterArmature|Punch_Right",
+      "CharacterArmature|Roll",
+      "CharacterArmature|Run",
+      "CharacterArmature|Run_Back",
+      "CharacterArmature|Run_Left",
+      "CharacterArmature|Run_Right",
+      "CharacterArmature|Run_Shoot",
+      "CharacterArmature|Sword_Slash",
+      "CharacterArmature|Walk",
+      "CharacterArmature|Wave"
+    ],
+    "materials": [
+      "Swat",
+      "Swat_Black",
+      "Skin",
+      "Visor"
+    ],
+    "meshes": 4,
+    "changes": [
+      "Changed nonmetal surfaces to metallic=0, roughness=0.9"
+    ],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "0e1146008117dc7d51255ea4a8cfc1fff30a4e5d2298c52c85beebf5a74aeea8"
+  },
+  {
+    "file": "firearms/assault-rifle.glb",
+    "name": "assault-rifle",
+    "source": "https://poly.pizza/m/Bgvuu4CUMV",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 133392,
+    "triangles": 1930,
+    "animations": [],
+    "materials": [
+      "Main",
+      "MainDark",
+      "MainLight"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "1f582a09c1565e0e0eb1ac752d7b79596c9c993fde26cdbffe2977a559689319"
+  },
+  {
+    "file": "firearms/battle-rifle.glb",
+    "name": "battle-rifle",
+    "source": "https://poly.pizza/m/K2lXTYFSLC",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 73260,
+    "triangles": 1304,
+    "animations": [],
+    "materials": [
+      "Wood",
+      "Black",
+      "DarkMetal",
+      "Metal",
+      "DarkWood"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "372ee3d58106bb774786c0a2201a695686c6a80b2b075f02c359a0a4b1d59679"
+  },
+  {
+    "file": "firearms/sniper-rifle.glb",
+    "name": "sniper-rifle",
+    "source": "https://poly.pizza/m/ASOMZIErq3",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 75884,
+    "triangles": 1382,
+    "animations": [],
+    "materials": [
+      "Black",
+      "Green",
+      "DarkMetal",
+      "Glass",
+      "Grey"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "813addffcdcee8162dfc6188cac2bec400e7459762ae7f20de5983494b7f42dd"
+  },
+  {
+    "file": "firearms/marksman-rifle.glb",
+    "name": "marksman-rifle",
+    "source": "https://poly.pizza/m/TKaBjAEofL",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 94588,
+    "triangles": 1722,
+    "animations": [],
+    "materials": [
+      "Black",
+      "DarkMetal",
+      "Glass",
+      "Green",
+      "Grey"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "e7594eb46e87f78e39dfc56272cedb4d5b4aff731014db237e9d51394065a24a"
+  },
+  {
+    "file": "firearms/shotgun.glb",
+    "name": "shotgun",
+    "source": "https://poly.pizza/m/TyWl27dUz6",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 59060,
+    "triangles": 1264,
+    "animations": [],
+    "materials": [
+      "Wood",
+      "Grey2",
+      "DarkGrey",
+      "Grey"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "9d9707bbc945829a47fadfe9f25f067718093e4dab09c7af047ace0836139bfa"
+  },
+  {
+    "file": "firearms/smg.glb",
+    "name": "smg",
+    "source": "https://poly.pizza/m/sRkpgScNzi",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 132816,
+    "triangles": 2497,
+    "animations": [],
+    "materials": [
+      "Atlas.015"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "d7352947df6a9b673031c4cd2acac2fec0528adf1fedaaa8ba7cc0e0adf3bea6"
+  },
+  {
+    "file": "firearms/pistol.glb",
+    "name": "pistol",
+    "source": "https://poly.pizza/m/J3i9KDQ3kt",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 53264,
+    "triangles": 968,
+    "animations": [],
+    "materials": [
+      "Metal",
+      "Black",
+      "LightMetal"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "8012f058fa82e67b31fac96dab81bb55a087f69d5c15d600e2bc9f0e1621cd61"
+  },
+  {
+    "file": "firearms/bullpup.glb",
+    "name": "bullpup",
+    "source": "https://poly.pizza/m/iKAlIbHUFD",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 140732,
+    "triangles": 2778,
+    "animations": [],
+    "materials": [
+      "MainDark",
+      "MainLight",
+      "Main"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "be8e86bfb7049488dd937a1c868f5f67650e337660dca712a7e399506a84ae3d"
+  },
+  {
+    "file": "firearms/pump-shotgun.glb",
+    "name": "pump-shotgun",
+    "source": "https://poly.pizza/m/ZmPTnh7njL",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 54708,
+    "triangles": 978,
+    "animations": [],
+    "materials": [
+      "Wood",
+      "Metal",
+      "DarkMetal",
+      "Black"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "3d0994a923980b00648bab9989cd5d587c0d58f3cc623dae24d25caf1e9a16e4"
+  },
+  {
+    "file": "firearms/submachine-gun.glb",
+    "name": "submachine-gun",
+    "source": "https://poly.pizza/m/7ehatxr7FY",
+    "creator": "Quaternius",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 70336,
+    "triangles": 1374,
+    "animations": [],
+    "materials": [
+      "DarkMetal",
+      "Metal",
+      "Black",
+      "Grey"
+    ],
+    "meshes": 1,
+    "changes": [],
+    "lod": "Single source LOD; renderer must instance and distance-cull",
+    "sha256": "83423417bb54426efd154c5602b50ae7bc08b8e9cd6ef5b2754bb352fe98b6d1"
+  },
+  {
+    "file": "ground-diff.jpg",
+    "name": "Aerial Grass Rock diff",
+    "source": "https://polyhaven.com/a/aerial_grass_rock",
+    "creator": "Rob Tuytel / Poly Haven",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 666655,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalWidthMetres": 15,
+    "changes": [
+      "Downloaded official 1K JPEG"
+    ],
+    "sha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d"
+  },
+  {
+    "file": "ground-nor_gl.jpg",
+    "name": "Aerial Grass Rock nor_gl",
+    "source": "https://polyhaven.com/a/aerial_grass_rock",
+    "creator": "Rob Tuytel / Poly Haven",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 904956,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalWidthMetres": 15,
+    "changes": [
+      "Downloaded official 1K JPEG"
+    ],
+    "sha256": "1aa3e23bff453f152e089b9f83aa36b4901651e019f7e2ca01d5331a9bbbda78"
+  },
+  {
+    "file": "ground-rough.jpg",
+    "name": "Aerial Grass Rock rough",
+    "source": "https://polyhaven.com/a/aerial_grass_rock",
+    "creator": "Rob Tuytel / Poly Haven",
+    "license": "CC0-1.0",
+    "attributionRequired": false,
+    "bytes": 362214,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "physicalWidthMetres": 15,
+    "changes": [
+      "Downloaded official 1K JPEG"
+    ],
+    "sha256": "b9f3f76aba74007f708333c0dbe73c52eb83ea0c4187a13e2e994f888a25114a"
+  }
+]
